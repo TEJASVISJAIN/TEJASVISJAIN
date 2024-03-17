@@ -20,7 +20,7 @@
   <br>
   💻 I love writing code and learn anything about it
   <br>
-  📚 I’ve currently taken up GANs as a topic for research
+  🧑‍💻 Currently an SDE Intern at Awiros, Gurugram
   <br>
   💬 Ask me anything about from <a href="https://github.com/TEJASVISJAIN/TEJASVISJAIN/issues" title="Issues">Here</a>
   <br>
