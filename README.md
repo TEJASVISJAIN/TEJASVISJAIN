@@ -1,5 +1,3 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTEJASVISJAIN%2FTEJASVISJAIN&labelColor=%232ccce4&countColor=%23697689">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=500&center=true&vCenter=true&width=435&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Tejasvi+S+Jain..;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </h1>
@@ -15,8 +13,6 @@
   <br>
   <br>
   🔬 I'm currently studying for bachelor's degree in Computer Engineering Department
-  <br>
-  🎓 I graduated from Sacred Heart Convent Senior Secondary School
   <br>
   💻 I love writing code and learn anything about it
   <br>
