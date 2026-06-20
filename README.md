@@ -9,14 +9,14 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Tejasvi S Jain, Senior Student at Thapar Institute of Engineering and Technology, India
+  Hi, I'm Tejasvi S Jain, Alumni of Thapar Institute of Engineering and Technology, India
   <br>
   <br>
-  🔬 I'm currently studying for bachelor's degree in Computer Engineering Department
+  🔬  Bachelor's degree in Computer Engineering
   <br>
   💻 I love writing code and learn anything about it
   <br>
-  🧑‍💻 Currently an SDE Intern at Awiros, Gurugram
+  🧑‍💻 Currently an SDE at Zeta, Bengaluru
   <br>
   💬 Ask me anything about from <a href="https://github.com/TEJASVISJAIN/TEJASVISJAIN/issues" title="Issues">Here</a>
   <br>
